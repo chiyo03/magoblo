@@ -1,0 +1,2 @@
+# magoblo
+magoblo all code
